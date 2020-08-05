@@ -1,0 +1,494 @@
+Country,Name,# walks,Year,Mission
+USSR,Alexei Leonov,1,1965, Voskhod 2
+U.S.,Ed White,1,1965, Gemini 4
+U.S.,Eugene Cernan,1,1966, Gemini 9A
+U.S.,Michael Collins,2,1966, Gemini 10 EVA 1 
+U.S.,Michael Collins,2,1966, Gemini 10 EVA 2 
+U.S.,"Richard F. Gordon, Jr.",2,1966, Gemini 11 EVA 1 
+U.S.,"Richard F. Gordon, Jr.",2,1966, Gemini 11 EVA 2 
+U.S.,Buzz Aldrin,3,1966, Gemini 12 EVA 1 
+U.S.,Buzz Aldrin,3,1966, Gemini 12 EVA 2
+U.S.,Buzz Aldrin,3,1966, Gemini 12 EVA 3 
+USSR,Yevgeny Khrunov,1,1969, Soyuz 5/4
+USSR,Aleksei Yeliseyev,1,1969, Soyuz 5/4
+U.S.,David Scott,2,1969, Apollo 9 
+U.S.,Rusty Schweickart,1,1969, Apollo 9
+U.S.,James Irwin,1,1971, Apollo 15 EVA 2 
+U.S.,Alfred Worden,1,1971, Apollo 15 EVA 2
+U.S.,"Charles Moss Duke, Jr.",1,1972, Apollo 16 
+U.S.,Ken Mattingly,1,1972, Apollo 16
+U.S.,Harrison Schmitt,1,1972, Apollo 17 
+U.S.,Ronald Evans,1,1972, Apollo 17
+U.S.,Paul J. Weitz,2,1973, Skylab 2 EVA 1
+U.S.,Paul J. Weitz,2,1973, Skylab 2 EVA 3
+U.S.,Pete Conrad,2,1973, Skylab 2 EVA 2
+U.S.,Pete Conrad,2,1973, Skylab 2 EVA 3
+U.S.,Joseph Kerwin,1,1973, Skylab 2 EVA 2
+U.S.,Owen K. Garriott,3,1973, Skylab 3 EVA 1
+U.S.,Owen K. Garriott,3,1973, Skylab 3 EVA 2
+U.S.,Owen K. Garriott,3,1973, Skylab 3 EVA 3
+U.S.,Jack Lousma,2,1973, Skylab 3 EVA 1
+U.S.,Jack Lousma,2,1973, Skylab 3 EVA 2
+U.S.,Alan Bean,1,1973, Skylab 3 EVA 3
+U.S.,Edward Gibson,3,1973-4, Skylab 4 EVA 1
+U.S.,Edward Gibson,3,1973-4, Skylab 4 EVA 3
+U.S.,Edward Gibson,3,1973-4, Skylab 4 EVA 4
+U.S.,William R. Pogue,2,1973, Skylab 4 EVA 1
+U.S.,William R. Pogue,2,1973, Skylab 4 EVA 2
+U.S.,Gerald P. Carr,3,1973-4, Skylab 4 EVA 2
+U.S.,Gerald P. Carr,3,1973-4, Skylab 4 EVA 3
+U.S.,Gerald P. Carr,3,1973-4, Skylab 4 EVA 4
+USSR,Yuri Romanenko,4,1977, Salyut 6 EO-1 EVA 1
+USSR,Georgi Grechko,1,1977, Salyut 6 EO-1 EVA 1
+USSR,Vladimir Kovalyonok,1,1978, Salyut 6 EO-2 EVA 1 
+USSR,Aleksandr Ivanchenkov,1,1978, Salyut 6 EO-2 EVA 1
+USSR,Valery Ryumin,1,1979, Salyut 6 EO-3 EVA 1
+USSR,Vladimir Lyakhov,3,1979, Salyut 6 EO-3 EVA 1
+USSR,Anatoly Berezovoy,1,1982, Salyut 7 EO-1 EVA 1
+USSR,Valentin Lebedev,1,1982, Salyut 7 EO-1 EVA 1
+U.S.,Story Musgrave,4,1983, STS-6 EVA 1
+U.S.,Donald H. Peterson,1,1983, STS-6 EVA 1
+USSR,Aleksandr Pavlovich Aleksandrov,2,1983, Salyut 7 EO-2 EVA 1
+USSR,Aleksandr Pavlovich Aleksandrov,2,1983, Salyut 7 EO-2 EVA 2
+U.S.,Bruce McCandless II,2,1984, STS-41-B EVA 1
+U.S.,Bruce McCandless II,2,1984, STS-41-B EVA 2
+U.S.,Robert L. Stewart,2,1984, STS-41-B EVA 1
+U.S.,Robert L. Stewart,2,1984, STS-41-B EVA 2
+U.S.,George Nelson,2,1984, STS-41-C EVA 1
+U.S.,George Nelson,2,1984, STS-41-C EVA 2
+U.S.,James van Hoften,4,1984, STS-41-C EVA 1
+U.S.,James van Hoften,4,1984, STS-41-C EVA 2
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 1
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 2
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 3
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 4
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 5
+USSR,Leonid Kizim,8,1984, Salyut 7 EO-3 EVA 6
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 1
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 2
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 3
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 4
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 5
+USSR,Vladimir Solovyov,8,1984, Salyut 7 EO-3 EVA 6
+USSR,Svetlana Savitskaya,1,1984, Salyut 7 EP-4 EVA 1
+USSR,Vladimir Dzhanibekov,2,1984, Salyut 7 EP-4 EVA 1
+U.S.,David Leestma,1,1984, STS-41-G EVA 1
+U.S.,Kathryn Dwyer Sullivan,1,1984, STS-41-G EVA 1
+U.S.,Joseph P. Allen,2,1984, STS-51-A EVA 1
+U.S.,Joseph P. Allen,2,1984, STS-51-A EVA 2
+U.S.,Dale Gardner,2,1984, STS-51-A EVA 1
+U.S.,Dale Gardner,2,1984, STS-51-A EVA 2
+U.S.,Jeffrey A. Hoffman,4,1985, STS-51-D EVA 1
+U.S.,S. David Griggs,1,1985, STS-51-D EVA 1
+USSR,Viktor Savinykh,1,1985, Salyut 7 EO-4 EVA 1
+U.S.,William Frederick Fisher,2,1985, STS-51-I EVA 1
+U.S.,William Frederick Fisher,2,1985, STS-51-I EVA 2
+U.S.,Jerry L. Ross,9,1985, STS-61-B EVA 1
+U.S.,Jerry L. Ross,9,1985, STS-61-B EVA 2
+U.S.,Sherwood Spring,2,1985, STS-61-B EVA 1
+U.S.,Sherwood Spring,2,1985, STS-61-B EVA 2
+USSR,Aleksandr Laveykin,3,1987, Mir EO-2 EVA 1
+USSR,Aleksandr Laveykin,3,1987, Mir EO-2 EVA 2
+USSR,Aleksandr Laveykin,3,1987, Mir EO-2 EVA 3
+"USSR 
+Russia",Vladimir Titov,4,1988, Mir EO-3 EVA 1
+"USSR 
+Russia",Vladimir Titov,4,1988, Mir EO-3 EVA 2
+"USSR 
+Russia",Vladimir Titov,4,1988, Mir EO-3 EVA 3
+USSR,Musa Manarov,7,1988, Mir EO-3 EVA 1
+USSR,Musa Manarov,7,1988, Mir EO-3 EVA 2
+USSR,Musa Manarov,7,1988, Mir EO-3 EVA 3
+"USSR 
+Russia",Aleksandr Volkov,2,1988, Mir EO-4 EVA 1
+France,Jean-Loup Chrétien,1,1988, Mir EO-4 EVA 1
+"USSR 
+Russia",Aleksandr Viktorenko,6,1990, Mir EO-5 EVA 1
+"USSR 
+Russia",Aleksandr Viktorenko,6,1990, Mir EO-5 EVA 2
+"USSR 
+Russia",Aleksandr Viktorenko,6,1990, Mir EO-5 EVA 3
+"USSR 
+Russia",Aleksandr Viktorenko,6,1990, Mir EO-5 EVA 4
+"USSR 
+Russia",Aleksandr Viktorenko,6,1990, Mir EO-5 EVA 5
+"USSR 
+Russia",Aleksandr Serebrov,10,1990, Mir EO-5 EVA 1
+"USSR 
+Russia",Aleksandr Serebrov,10,1990, Mir EO-5 EVA 2
+"USSR 
+Russia",Aleksandr Serebrov,10,1990, Mir EO-5 EVA 3
+"USSR 
+Russia",Aleksandr Serebrov,10,1990, Mir EO-5 EVA 4
+"USSR 
+Russia",Aleksandr Serebrov,10,1990, Mir EO-5 EVA 5
+"USSR 
+Russia",Anatoly Solovyev,16,1990, Mir EO-6 EVA 1
+"USSR 
+Russia",Anatoly Solovyev,16,1990, Mir EO-6 EVA 2
+USSR,Aleksandr Balandin,2,1990, Mir EO-6 EVA 1
+USSR,Aleksandr Balandin,2,1990, Mir EO-6 EVA 2
+"USSR 
+Russia",Gennadi Manakov,3,1990, Mir EO-7 EVA 1
+"USSR 
+Russia",Gennadi Strekalov,6,1990, Mir EO-7 EVA 1
+"USSR 
+Russia",Viktor Mikhaylovich Afanasyev,7,1991, Mir EO-8 EVA 1
+"USSR 
+Russia",Viktor Mikhaylovich Afanasyev,7,1991, Mir EO-8 EVA 2
+"USSR 
+Russia",Viktor Mikhaylovich Afanasyev,7,1991, Mir EO-8 EVA 3
+"USSR 
+Russia",Viktor Mikhaylovich Afanasyev,7,1991, Mir EO-8 EVA 4
+U.S.,Jerome Apt,2,1991, STS-37 EVA 1
+U.S.,Jerome Apt,2,1991, STS-37 EVA 2
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 1
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 2
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 3
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 4
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 5
+USSR,Anatoly Artsebarsky,6,1991, Mir EO-9 EVA 6
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 1
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 2
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 3
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 4
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 5
+"USSR 
+Russia",Sergei Krikalev,8,1991, Mir EO-9 EVA 6
+U.S.,Pierre Thuot,3,1992, STS-49 EVA 1
+U.S.,Pierre Thuot,3,1992, STS-49 EVA 2
+U.S.,Pierre Thuot,3,1992, STS-49 EVA 3 
+U.S.,Richard Hieb,3,1992, STS-49 EVA 1
+U.S.,Richard Hieb,3,1992, STS-49 EVA 2
+U.S.,Richard Hieb,3,1992, STS-49 EVA 3
+U.S.,Thomas Akers,4,1992, STS-49 EVA 3
+U.S.,Thomas Akers,4,1992, STS-49 EVA 4
+U.S.,Kathryn C. Thornton,3,1992, STS-49 EVA 4
+Russia,Aleksandr Kaleri,5,1992, Mir EO-11 EVA 1
+Russia,Sergei Avdeyev,10,1992, Mir EO-12 EVA 1
+Russia,Sergei Avdeyev,10,1992, Mir EO-12 EVA 2
+Russia,Sergei Avdeyev,10,1992, Mir EO-12 EVA 3
+Russia,Sergei Avdeyev,10,1992, Mir EO-12 EVA 4
+U.S.,Gregory J. Harbaugh,3,1993, STS-54 EVA 1
+U.S.,Mario Runco,1,1993, STS-54 EVA 1
+Russia,Aleksandr Poleshchuk,2,1993, Mir EO-13 EVA 1
+Russia,Aleksandr Poleshchuk,2,1993, Mir EO-13 EVA 2
+U.S.,G. David Low,1,1993, STS-57 EVA 1
+U.S.,Peter Wisoff,3,1993, STS-57 EVA 1
+Russia,Vasili Tsibliyev,6,1993, Mir EO-14 EVA 1
+Russia,Vasili Tsibliyev,6,1993, Mir EO-14 EVA 2
+Russia,Vasili Tsibliyev,6,1993, Mir EO-14 EVA 3
+Russia,Vasili Tsibliyev,6,1993, Mir EO-14 EVA 4
+Russia,Vasili Tsibliyev,6,1993, Mir EO-14 EVA 5
+U.S.,James H. Newman,6,1993, STS-51 EVA 1
+U.S.,Carl E. Walz,3,1993, STS-51 EVA 1
+Russia,Yuri Malenchenko,6,1994, Mir EO-16 EVA 1
+Russia,Yuri Malenchenko,6,1994, Mir EO-16 EVA 2
+Russia,Talgat Musabayev,7,1994, Mir EO-16 EVA 1
+Russia,Talgat Musabayev,7,1994, Mir EO-16 EVA 2
+U.S.,Mark C. Lee,4,1994, STS-64 EVA 1
+U.S.,Carl J. Meade,1,1994, STS-64 EVA 1
+U.S.,Michael Foale,4,1995, STS-63 EVA 1
+U.S.,Bernard Harris,1,1995, STS-63 EVA 1
+Russia,Vladimir N. Dezhurov,9,1995, Mir EO-18 EVA 1 
+Russia,Vladimir N. Dezhurov,9,1995, Mir EO-18 EVA 2
+Russia,Vladimir N. Dezhurov,9,1995, Mir EO-18 EVA 3
+Russia,Vladimir N. Dezhurov,9,1995, Mir EO-18 EVA 4
+Russia,Vladimir N. Dezhurov,9,1995, Mir EO-18 EVA 5
+Russia,Nikolai Budarin,8,1995, Mir EO-19 EVA 1
+Russia,Nikolai Budarin,8,1995, Mir EO-19 EVA 2
+Russia,Nikolai Budarin,8,1995, Mir EO-19 EVA 3
+U.S.,James S. Voss,4,1995, STS-69 EVA 1
+U.S.,Michael Gernhardt,4,1995, STS-69 EVA 1
+Germany,Thomas Reiter,3,1995-6, Mir EO-20 EVA 1
+Germany,Thomas Reiter,3,1995-6, Mir EO-20 EVA 3
+Russia,Yuri Gidzenko,2,1995-6, Mir EO-20 EVA 2
+Russia,Yuri Gidzenko,2,1995-6, Mir EO-20 EVA 3
+U.S.,Leroy Chiao,6,1996, STS-72 EVA 1
+U.S.,Leroy Chiao,6,1996, STS-72 EVA 2
+U.S.,Daniel T. Barry,4,1996, STS-72 EVA 1
+U.S.,Winston E. Scott,3,1996, STS-72 EVA 2
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 1
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 2
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 3
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 4
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 5
+Russia,Yuri Onufriyenko,8,1996, Mir EO-21 EVA 6
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 1
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 2
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 3
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 4
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 5
+Russia,Yuri Usachov,7,1996, Mir EO-21 EVA 6
+U.S.,Michael R. Clifford,1,1996, STS-76 EVA 1
+U.S.,Linda M. Godwin,2,1996, STS-76 EVA 1
+Russia,Valery Korzun,4,1996, Mir EO-22 EVA 1
+Russia,Valery Korzun,4,1996, Mir EO-22 EVA 2
+U.S.,Steven Smith,7,1997, STS-82 EVA 1
+U.S.,Steven Smith,7,1997, STS-82 EVA 3
+U.S.,Steven Smith,7,1997, STS-82 EVA 5
+U.S.,Joseph R. Tanner,7,1997, STS-82 EVA 2
+U.S.,Joseph R. Tanner,7,1997, STS-82 EVA 4
+U.S.,Jerry M. Linenger,1,1997, Mir EO-23 EVA 1
+Russia,Pavel Vinogradov,7,1997-8, Mir EO-24 EVA 1
+Russia,Pavel Vinogradov,7,1997-8, Mir EO-24 EVA 3
+Russia,Pavel Vinogradov,7,1997-8, Mir EO-24 EVA 4
+Russia,Pavel Vinogradov,7,1997-8, Mir EO-24 EVA 5
+Russia,Pavel Vinogradov,7,1997-8, Mir EO-24 EVA 6
+U.S.,Scott E. Parazynski,7,1997, STS-86 EVA 1
+Japan,Takao Doi,2,1997, STS-87 EVA 1
+Japan,Takao Doi,2,1997, STS-87 EVA 2
+U.S.,David Wolf,7,1998, Mir EO-24 EVA 7
+Russia,Gennady Padalka,10,1998, Mir EO-26 EVA 1
+Russia,Gennady Padalka,10,1998, Mir EO-26 EVA 2
+France,Jean-Pierre Haigneré,1,1999, Mir EO-27 EVA 1
+U.S.,Tamara E. Jernigan,1,1999, STS-96 EVA 1
+U.S.,John Grunsfeld,8,1999, STS-103 EVA 1
+U.S.,John Grunsfeld,8,1999, STS-103 EVA 3
+Switzerland,Claude Nicollier,1,1999, STS-103 EVA 2
+Russia,Sergei Zalyotin,1,2000, Mir EO-28 EVA 1
+U.S.,Jeffrey Williams,5,2000, STS-101 EVA 1
+U.S.,Edward Lu,1,2000, STS-106 EVA 1
+U.S.,William S. McArthur,4,2000, STS-92 EVA 1
+U.S.,William S. McArthur,4,2000, STS-92 EVA 3
+U.S.,Michael Lopez-Alegria,10,2000, STS-92 EVA 2
+U.S.,Michael Lopez-Alegria,10,2000, STS-92 EVA 4
+U.S.,Carlos I. Noriega,3,2000," STS-97 EVA 1, 2, 3"
+U.S.,Carlos I. Noriega,3,2000, STS-97 EVA 1
+U.S.,Carlos I. Noriega,3,2000, STS-97 EVA 2
+U.S.,Thomas D. Jones,3,2001, STS-98 EVA 3
+U.S.,Robert Curbeam,7,2001, STS-98 EVA 1
+U.S.,Robert Curbeam,7,2001, STS-98 EVA 2
+U.S.,Robert Curbeam,7,2001, STS-98 EVA 3
+U.S.,Susan Helms,1,2001, STS-102 EVA 1
+U.S.,Andy Thomas,1,2001, STS-102 EVA 2
+U.S.,Paul W. Richards,1,2001, STS-102 EVA 2
+Canada,Chris Hadfield,2,2001, STS-100 EVA 1
+Canada,Chris Hadfield,2,2001, STS-100 EVA 2
+U.S.,James F. Reilly,5,2001, STS-104 EVA 1
+U.S.,James F. Reilly,5,2001, STS-104 EVA 2
+U.S.,James F. Reilly,5,2001, STS-104 EVA 3
+U.S.,Patrick G. Forrester,4,2001, STS-105 EVA 1
+U.S.,Patrick G. Forrester,4,2001, STS-105 EVA 2
+Russia,Mikhail Tyurin,5,2001, Expedition 3 EVA 1
+Russia,Mikhail Tyurin,5,2001, Expedition 3 EVA 2
+Russia,Mikhail Tyurin,5,2001, Expedition 3 EVA 4
+U.S.,"Frank L. Culbertson, Jr.",1,2001, Expedition 3 EVA 3
+U.S.,Daniel M. Tani,6,2001, STS-108 EVA 1
+U.S.,Daniel W. Bursch,2,2002, Expedition 4 EVA 2
+U.S.,Daniel W. Bursch,2,2002, Expedition 4 EVA 3
+U.S.,Richard M. Linnehan,6,2002, STS-109 EVA 1
+U.S.,Richard M. Linnehan,6,2002, STS-109 EVA 3
+U.S.,Richard M. Linnehan,6,2002, STS-109 EVA 5
+U.S.,Michael J. Massimino,4,2002, STS-109 EVA 2
+U.S.,Michael J. Massimino,4,2002, STS-109 EVA 4
+U.S.,Rex J. Walheim,5,2002, STS-110 EVA 1
+U.S.,Rex J. Walheim,5,2002, STS-110 EVA 3
+U.S.,Lee Morin,2,2002, STS-110 EVA 2
+U.S.,Lee Morin,2,2002, STS-110 EVA 4
+"Costa Rica 
+USA",Franklin Chang-Diaz,3,2002, STS-111 EVA 1
+"Costa Rica 
+USA",Franklin Chang-Diaz,3,2002, STS-111 EVA 2
+"Costa Rica 
+USA",Franklin Chang-Diaz,3,2002, STS-111 EVA 3
+France,Philippe Perrin,3,2002, STS-111 EVA 1
+France,Philippe Perrin,3,2002, STS-111 EVA 2
+France,Philippe Perrin,3,2002, STS-111 EVA 3
+U.S.,Peggy Whitson,10,2002, Expedition 5 EVA 1
+Russia,Sergei Treshchov,1,2002, Expedition 5 EVA 2
+U.S.,Piers Sellers,6,2002, STS-112 EVA 1
+U.S.,Piers Sellers,6,2002, STS-112 EVA 2
+U.S.,Piers Sellers,6,2002, STS-112 EVA 3
+U.S.,John Herrington,3,2002, STS-113 EVA 1
+U.S.,John Herrington,3,2002, STS-113 EVA 2
+U.S.,John Herrington,3,2002, STS-113 EVA 3
+U.S.,Ken Bowersox,2,2003, Expedition 6 EVA 1
+U.S.,Ken Bowersox,2,2003, Expedition 6 EVA 2
+U.S.,Donald Pettit,2,2003, Expedition 6 EVA 1
+U.S.,Donald Pettit,2,2003, Expedition 6 EVA 2
+U.S.,Michael Fincke,9,2004, Expedition 9 EVA 1
+U.S.,Michael Fincke,9,2004, Expedition 9 EVA 2
+U.S.,Michael Fincke,9,2004, Expedition 9 EVA 3
+U.S.,Michael Fincke,9,2004, Expedition 9 EVA 4
+Russia,Salizhan Sharipov,2,2005, Expedition 10 EVA 1
+Russia,Salizhan Sharipov,2,2005, Expedition 10 EVA 2
+Japan,Soichi Noguchi,3,2005, STS-114 EVA 1
+Japan,Soichi Noguchi,3,2005, STS-114 EVA 2
+Japan,Soichi Noguchi,3,2005, STS-114 EVA 3
+U.S.,Stephen Robinson,3,2005, STS-114 EVA 1
+U.S.,Stephen Robinson,3,2005, STS-114 EVA 2
+U.S.,Stephen Robinson,3,2005, STS-114 EVA 3
+U.S.,John L. Phillips,1,2005, Expedition 11 EVA 1
+Russia,Valery Tokarev,2,2005-6, Expedition 12 EVA 1
+Russia,Valery Tokarev,2,2005-6, Expedition 12 EVA 2
+U.S.,Michael E. Fossum,7,2006, STS-121 EVA 1
+U.S.,Michael E. Fossum,7,2006, STS-121 EVA 2
+U.S.,Michael E. Fossum,7,2006, STS-121 EVA 3
+U.S.,Heidemarie Stefanyshyn-Piper,5,2006, STS-115 EVA 1
+U.S.,Heidemarie Stefanyshyn-Piper,5,2006, STS-115 EVA 3
+U.S.,Daniel C. Burbank,1,2006, STS-115 EVA 2
+Canada,Steven MacLean,1,2006, STS-115 EVA 2
+Sweden,Christer Fuglesang,5,2006, STS-116 EVA 1
+Sweden,Christer Fuglesang,5,2006, STS-116 EVA 2
+Sweden,Christer Fuglesang,5,2006, STS-116 EVA 4
+U.S.,Sunita Williams,7,2006, STS-116 EVA 3
+Russia,Oleg Kotov,5,2007, Expedition 15 EVA 1
+Russia,Oleg Kotov,5,2007, Expedition 15 EVA 2
+Russia,Fyodor Yurchikhin,9,2007, Expedition 15 EVA 1
+Russia,Fyodor Yurchikhin,9,2007, Expedition 15 EVA 2
+Russia,Fyodor Yurchikhin,9,2007, Expedition 15 EVA 3
+U.S.,John D. Olivas,5,2007, STS-117 EVA 1 
+U.S.,John D. Olivas,5,2007, STS-117 EVA 3
+U.S.,Steven Swanson,5,2007, STS-117 EVA 2
+U.S.,Steven Swanson,5,2007, STS-117 EVA 4
+U.S.,Clayton Anderson,6,2007, Expedition 15 EVA 3
+U.S.,Richard Mastracchio,9,2007, STS-118 EVA 1
+U.S.,Richard Mastracchio,9,2007, STS-118 EVA 2
+U.S.,Richard Mastracchio,9,2007, STS-118 EVA 3
+Canada,Dafydd Williams,3,2007, STS-118 EVA 1
+Canada,Dafydd Williams,3,2007, STS-118 EVA 2
+Canada,Dafydd Williams,3,2007, STS-118 EVA 4
+U.S.,Douglas H. Wheelock,6,2007, STS-120 EVA 1
+U.S.,Douglas H. Wheelock,6,2007, STS-120 EVA 3
+U.S.,Douglas H. Wheelock,6,2007, STS-120 EVA 4
+U.S.,Stanley G. Love,2,2008, STS-122 EVA 1
+U.S.,Stanley G. Love,2,2008, STS-122 EVA 3
+Germany,Hans Schlegel,1,2008, STS-122 EVA 2
+U.S.,Garrett Reisman,3,2008, STS-123 EVA 1
+U.S.,Michael Foreman,5,2008, STS-123 EVA 2
+U.S.,Michael Foreman,5,2008, STS-123 EVA 4
+U.S.,Michael Foreman,5,2008, STS-123 EVA 5
+U.S.,Robert L. Behnken,10,2008, STS-123 EVA 3
+U.S.,Robert L. Behnken,10,2008, STS-123 EVA 4
+U.S.,Robert L. Behnken,10,2008, STS-123 EVA 5
+U.S.,"Ronald J. Garan, Jr.",4,2008, STS-124 EVA 1
+U.S.,"Ronald J. Garan, Jr.",4,2008, STS-124 EVA 2
+U.S.,"Ronald J. Garan, Jr.",4,2008, STS-124 EVA 3
+Russia,Sergei Volkov,4,2008, Expedition 17 EVA 1
+Russia,Sergei Volkov,4,2008, Expedition 17 EVA 2
+Russia,Oleg Kononenko,4,2008, Expedition 17 EVA 1
+Russia,Oleg Kononenko,4,2008, Expedition 17 EVA 2
+China,Zhai Zhigang,1,2008, Shenzhou 7
+China,Liu Boming,1,2008, Shenzhou 7 
+U.S.,Stephen G. Bowen,7,2008, STS-126 EVA 1
+U.S.,Stephen G. Bowen,7,2008, STS-126 EVA 3
+U.S.,Stephen G. Bowen,7,2008, STS-126 EVA 4
+U.S.,Robert S. Kimbrough,4,2008, STS-126 EVA 2
+U.S.,Robert S. Kimbrough,4,2008, STS-126 EVA 4 
+Russia,Yuri Lonchakov,2,2008-9, Expedition 18 EVA 1
+Russia,Yuri Lonchakov,2,2008-9, Expedition 18 EVA 2
+U.S.,Richard R. Arnold,5,2009, STS-119 EVA 1
+U.S.,Richard R. Arnold,5,2009, STS-119 EVA 3
+U.S.,Joseph M. Acaba,3,2009, STS-119 EVA 2
+U.S.,Joseph M. Acaba,3,2009, STS-119 EVA 3
+U.S.,Andrew J. Feustel,9,2009, STS-125 EVA 1
+U.S.,Andrew J. Feustel,9,2009, STS-125 EVA 3
+U.S.,Andrew J. Feustel,9,2009, STS-125 EVA 5
+U.S.,Michael T. Good,4,2009, STS-125 EVA 2
+U.S.,Michael T. Good,4,2009, STS-125 EVA 4
+U.S.,Michael R. Barratt,2,2009, Expedition 20 EVA 1
+U.S.,Michael R. Barratt,2,2009, Expedition 20 EVA 2
+U.S.,Timothy L. Kopra,3,2009, STS-127 EVA 1
+U.S.,Thomas Marshburn,4,2009, STS-127 EVA 2
+U.S.,Thomas Marshburn,4,2009, STS-127 EVA 4
+U.S.,Thomas Marshburn,4,2009, STS-127 EVA 5
+U.S.,Christopher Cassidy,10,2009, STS-127 EVA 3
+U.S.,Christopher Cassidy,10,2009, STS-127 EVA 4
+U.S.,Christopher Cassidy,10,2009, STS-127 EVA 5
+U.S.,Nicole P. Stott,1,2009, STS-128 EVA 1
+U.S.,Robert Satcher,2,2009, STS-129 EVA 1
+U.S.,Robert Satcher,2,2009, STS-129 EVA 3
+U.S.,Randolph Bresnik,5,2009, STS-129 EVA 2
+U.S.,Randolph Bresnik,5,2009, STS-129 EVA 3
+Russia,Maksim Surayev,2,2010, Expedition 22 EVA 1
+U.S.,Nicholas Patrick,3,2010, STS-130 EVA 1
+U.S.,Nicholas Patrick,3,2010, STS-130 EVA 2
+U.S.,Nicholas Patrick,3,2010, STS-130 EVA 3
+Russia,Mikhail Korniyenko,2,2010, Expedition 24 EVA 1
+USA,Tracy Caldwell Dyson,3,2010, Expedition 24 EVA 2
+USA,Tracy Caldwell Dyson,3,2010, Expedition 24 EVA 3
+USA,Tracy Caldwell Dyson,3,2010, Expedition 24 EVA 4
+Russia,Oleg Skripochka,3,2010-11, Expedition 25 EVA 1
+Russia,Oleg Skripochka,3,2010-11, Expedition 26 EVA 1
+Russia,Oleg Skripochka,3,2010-11, Expedition 26 EVA 2
+Russia,Dmitri Kondratyev,2,2011, Expedition 26 EVA 1
+Russia,Dmitri Kondratyev,2,2011, Expedition 26 EVA 2
+USA,B. Alvin Drew,2,2011, STS-133 EVA 1
+USA,B. Alvin Drew,2,2011, STS-133 EVA 2
+USA,Gregory Chamitoff,2,2011, STS-134 EVA 1
+USA,Gregory Chamitoff,2,2011, STS-134 EVA 4
+Russia,Aleksandr Samokutyayev,2,2011, Expedition 28 EVA 2
+Russia,Anton Shkaplerov,1,2012, Expedition 30 EVA 1
+Japan,Akihiko Hoshide,3,2012, Expedition 32 EVA 2
+Japan,Akihiko Hoshide,3,2012, Expedition 32 EVA 3
+Japan,Akihiko Hoshide,3,2012,Expedition 33 EVA 1
+Russia,Roman Romanenko,1,2013, Expedition 35 EVA 1
+Russia,Alexander Misurkin,4,2013, Expedition 36 EVA 1
+Russia,Alexander Misurkin,4,2013, Expedition 36 EVA 4
+Russia,Alexander Misurkin,4,2013, Expedition 36 EVA 5
+Italy,Luca Parmitano,6,2013, Expedition 36 EVA 2
+Italy,Luca Parmitano,6,2013, Expedition 36 EVA 3
+Russia,Sergei Ryazanski,4,2013, Expedition 37 EVA 1
+USA,Michael S. Hopkins,2,2013, Expedition 38 EVA 1
+USA,Michael S. Hopkins,2,2013, Expedition 38 EVA 2
+Russia,Alexander Skvortsov,2,2014, Expedition 40 EVA 1
+Russia,Alexander Skvortsov,2,2014, Expedition 40 EVA 2
+Russia,Oleg Artemyev,3,2014, Expedition 40 EVA 1
+Russia,Oleg Artemyev,3,2014, Expedition 40 EVA 2
+USA,Reid Wiseman,2,2014, Expedition 41 EVA 1
+USA,Reid Wiseman,2,2014, Expedition 41 EVA 2
+Germany,Alexander Gerst,1,2014, Expedition 41 EVA 1
+USA,Butch Wilmore,4,2014-15, Expedition 41 EVA 2
+USA,Butch Wilmore,4,2014-15, Expedition 42 EVA 1
+USA,Butch Wilmore,4,2014-15, Expedition 42 EVA 2
+USA,Butch Wilmore,4,2014-15, Expedition 42 EVA 3
+USA,Terry Virts,1,2015, Expedition 42 EVA 1
+USA,Scott Kelly,3,2015, Expedition 45 EVA 1
+USA,Scott Kelly,3,2015, Expedition 45 EVA 2
+USA,Scott Kelly,3,2015,Expedition 46 EVA 1
+USA,Kjell Lindgren,2,2015, Expedition 45 EVA 1
+USA,Kjell Lindgren,2,2015, Expedition 45 EVA 2
+U.K.,Tim Peake,1,2016, Expedition 46 EVA 2
+U.S.,Kathleen Rubins,2,2016, Expedition 48 EVA 1
+U.S.,Kathleen Rubins,2,2016, Expedition 48 EVA 2
+France,Thomas Pesquet,2,2017, Expedition 50 EVA 2
+France,Thomas Pesquet,2,2017, Expedition 50 EVA 3
+U.S.,Jack D. Fischer,2,2017, Expedition 51 EVA 1
+U.S.,Jack D. Fischer,2,2017, Expedition 51 EVA 2
+U.S.,Mark T. Vande Hei,4,2017, Expedition 53 EVA 1
+U.S.,Mark T. Vande Hei,4,2017, Expedition 53 EVA 2
+U.S.,Mark T. Vande Hei,4,2017,Expedition 54 EVA 1
+U.S.,Mark T. Vande Hei,4,2017, Expedition 54 EVA 3
+U.S.,Scott D. Tingle,1,2018, Expedition 54 EVA 1
+Japan,Norishige Kanai,1,2018, Expedition 54 EVA 3
+Russia,Sergei Prokopyev,2,2018,Expedition 56 EVA 1
+Russia,Sergei Prokopyev,2,2018,Expedition 57 EVA 1
+U.S.,Anne C. McClain,2,2019, Expedition 59 EVA 1
+U.S.,Anne C. McClain,2,2019, Expedition 59 EVA 3
+U.S.,Tyler N. Hague,3,2019, Expedition 59 EVA 1
+U.S.,Tyler N. Hague,3,2019, Expedition 59 EVA 2
+U.S.,Tyler N. Hague,3,2019, Expedition 60 EVA 1
+U.S.,Christina H. Koch,6,2019-20,Expedition 59 EVA 2
+U.S.,Christina H. Koch,6,2019-20,Expedition 61 EVA 1
+U.S.,Christina H. Koch,6,2019-20,Expedition 61 EVA 2
+U.S.,Christina H. Koch,6,2019-20,Expedition 61 EVA 3
+U.S.,Christina H. Koch,6,2019-20, Expedition 61 EVA 7
+U.S.,Christina H. Koch,6,2019-20, Expedition 61 EVA 8
+Canada,David Saint-Jacques,1,2019, Expedition 59 EVA 3
+Russia,Aleksey Ovchinin,1,2019, Expedition 59 EVA 4
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 60 EVA 1
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 1
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 2
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 4
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 5
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 6
+U.S.,Andrew R. Morgan,7,2019-20, Expedition 61 EVA 9
+U.S.,Jessica Meir,3,2019-20, Expedition 61 EVA 3
+U.S.,Jessica Meir,3,2019-20, Expedition 61 EVA 7
+U.S.,Jessica Meir,3,2019-20, Expedition 61 EVA 8
