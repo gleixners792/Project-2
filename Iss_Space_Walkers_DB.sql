@@ -1,7 +1,7 @@
 -- 0. Delete Tables if rework is needed.
 DROP Table IF Exists Nasa_Budgets_over_time;
 DROP Table IF Exists Space_walkers_with_country;
-DROP Table IF Exists Other_Space_Acency_Budgets;
+DROP Table IF Exists Other_Space_Agency_Budgets;
 DROP Table IF Exists Iss_Space_Walkers;
 DROP Table IF Exists Space_Walk_master;
 DROP Table IF Exists Austronauts_master;
@@ -24,9 +24,9 @@ CREATE TABLE Austronauts_master (
     space_flights_hrs int,
     space_walks int,
     space_walks_hrs int,
-    missions VARCHAR (200),
-    death_date VARCHAR (10),
-    death_mission VARCHAR (50),    
+    missions VARCHAR(200),
+    death_date VARCHAR(10),
+    death_mission VARCHAR(50),    
     PRIMARY KEY (name)
 );
 
@@ -52,8 +52,8 @@ CREATE TABLE Iss_Space_Walkers (
     FOREIGN KEY (space_walker_two) REFERENCES Austronauts_master (name)
 );
 
--- 4. Create a Other_Space_Acency_Budgets Table
-CREATE TABLE Other_Space_Acency_Budgets (
+-- 4. Create a Other_Space_Agency_Budgets Table
+CREATE TABLE Other_Space_Agency_Budgets (
 	country_name VARCHAR(60) NOT NULL,
 	space_agency_name VARCHAR(60) NOT NULL,
     agency_budget numeric NOT NULL,
@@ -67,7 +67,7 @@ CREATE TABLE Space_walkers_with_country (
 	space_walks int NOT NUll,
     year int,
     mission_name VARCHAR(30) NOT NULL,
-    FOREIGN KEY (country_name) REFERENCES Other_Space_Acency_Budgets(country_name),
+    FOREIGN KEY (country_name) REFERENCES Other_Space_Agency_Budgets(country_name),
     FOREIGN KEY (name) REFERENCES Austronauts_master (name),
 	FOREIGN KEY (mission_name) REFERENCES Space_Walk_master (mission_name)
 );
@@ -75,7 +75,7 @@ CREATE TABLE Space_walkers_with_country (
 -- 6. Create Nasa_Budgets_over_time Table
 CREATE TABLE Nasa_Budgets_over_time (
     year int NOT NULL,
-	Nasa_budget_mill numeric NOT NULL,
-    Nasa_budget_percent_of_fed numeric NOT NULL,
-    Nasa_budget_in_2014_dollars numeric NOT NULL
+	nasa_budget_mill numeric NOT NULL,
+    nasa_budget_percent_of_fed numeric NOT NULL,
+    nasa_budget_in_2014_dollars numeric NOT NULL
 );
