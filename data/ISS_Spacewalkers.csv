@@ -1,56 +1,128 @@
 ﻿Mission Title,Space Walker One,Space Walker Two
-Expedition 63 EVA 1,Bob Behnken,Chris Cassidy
-Expedition 63 EVA 2,Bob Behnken,Chris Cassidy
-Expedition 63 EVA 3,Chris Cassidy,Bob Behnken
-Expedition 63 EVA 4,Chris Cassidy,Bob Behnken
-Expedition 56 EVA 2,Drew Feustel,Ricky Arnold
-Expedition 55 EVA 1,Drew Feustel,Ricky Arnold
+Expedition 63 EVA 4,Bob Behnken,Chris Cassidy
+Expedition 63 EVA 3,Bob Behnken,Chris Cassidy
+Expedition 63 EVA 2,Chris Cassidy,Bob Behnken
+Expedition 63 EVA 1,Chris Cassidy,Bob Behnken
+Expedition 56 EVA 1,Drew Feustel,Ricky Arnold
 Expedition 55 EVA 2,Drew Feustel,Ricky Arnold
+Expedition 55 EVA 1,Drew Feustel,Ricky Arnold
 Expedition 54 EVA 1,Mark Vande Hei,Scott Tingle
-Expedition 51 EVA 2,Peggy Whitson,Jack Fischer
+Expedition 53 EVA 3,Randy Bresnik,Joe Acaba
+Expedition 53 EVA 1,Randy Bresnik,Mark Vande Hei
+Expedition 53 EVA 2,Randy Bresnik,Mark Vande Hei
 Expedition 51 EVA 1,Peggy Whitson,Jack Fischer
-Expedition 45 EVA 2,Scott Kelly,Kjell Lindgren
+Expedition 51 EVA 2,Peggy Whitson,Jack Fischer
+Expedition 48 EVA 1,Jeff Williams,Kate Rubins
+Expedition 48 EVA 2,Jeff Williams,Kate Rubins
+Expedition 46 EVA 1,Scott Kelly,Tim Kopra
 Expedition 45 EVA 1,Scott Kelly,Kjell Lindgren
-Expedition 41 EVA 1,Reid Wiseman,Barry Wilmore
-Expedition 35 EVA 1,Chris Cassidy,Thomas Marshburn
-STS-132 EVA 2,Michael Good,Stephen Bowen
-STS-132 EVA 1,Stephen Bowen,Michael Good
+Expedition 45 EVA 2,Scott Kelly,Kjell Lindgren
+Expedition 42 EVA 1,Barry Wilmore,Terry Virts
+Expedition 42 EVA 2,Barry Wilmore,Terry Virts
+Expedition 42 EVA 3,Barry Wilmore,Terry Virts
+Expedition 41 EVA 2,Reid Wiseman,Barry Wilmore
+Expedition 39 EVA 1,Richard Mastracchio,Steve Swanson
+Expedition 38 EVA 1,Richard Mastracchio,Mike Hopkins
+Expedition 38 EVA 2,Richard Mastracchio,Mike Hopkins
+Expedition 35 EVA 2,Chris Cassidy,Thomas Marshburn
+Expedition 28 EVA 1,Ron Garan,Mike Fossum
+STS-134 EVA 4,Drew Feustel,Greg Chamitoff
+STS-134 EVA 3,Drew Feustel,Mike Fincke
+STS-134 EVA 2,Drew Feustel,Mike Fincke
+STS-134 EVA 1,Drew Feustel,Greg Chamitoff
+STS-133 EVA 1,Stephen Bowen,Alvin Drew
+STS-133 EVA 2,Stephen Bowen,Alvin Drew
+Expedition 24 EVA 2,Doug Wheelock,Tracy Caldwell Dyson
+Expedition 24 EVA 3,Doug Wheelock,Tracy Caldwell Dyson
+Expedition 24 EVA 4,Doug Wheelock,Tracy Caldwell Dyson
+STS-132 EVA 3,Michael Good,Stephen Bowen
+STS-132 EVA 2,Stephen Bowen,Michael Good
+STS-132 EVA 1,Garrett Reisman,Stephen Bowen
 STS-131 EVA 3,Richard Mastracchio,Clayton Anderson
 STS-131 EVA 2,Richard Mastracchio,Clayton Anderson
 STS-131 EVA 1,Richard Mastracchio,Clayton Anderson
-STS-129 EVA 1,Michael Foreman,Randolph Bresnik
+STS-130 EVA 1,Bob Behnken,Nicholas Patrick
+STS-130 EVA 2,Bob Behnken,Nicholas Patrick
+STS-130 EVA 3,Bob Behnken,Nicholas Patrick
+STS-129 EVA 3,Robert Satcher,Randy Bresnik
+STS-129 EVA 2,Michael Foreman,Randy Bresnik
+STS-129 EVA 1,Michael Foreman,Robert Satcher
 STS-128 EVA 1,John Olivas,Nicole Stott
 STS-127 EVA 4,Chris Cassidy,Thomas Marshburn
-STS-127 EVA 3,Chris Cassidy,Thomas Marshburn
-STS-127 EVA 2,David Wolf,Chris Cassidy
-STS-127 EVA 1,David Wolf,Thomas Marshburn
+STS-127 EVA 5,Chris Cassidy,Thomas Marshburn
+STS-127 EVA 3,David Wolf,Chris Cassidy
+STS-127 EVA 2,David Wolf,Thomas Marshburn
+STS-127 EVA 1,David Wolf,Tim Kopra
+STS-119 EVA 3,Joe Acaba,Ricky Arnold
+STS-119 EVA 2,Steve Swanson,Joe Acaba
+STS-119 EVA 1,Steve Swanson,Ricky Arnold
 STS-126 EVA 4,Stephen Bowen,Robert Kimbrough
-STS-126 EVA 3,Heidemarie Stefanyshyn-Piper,Stephen Bowen
-STS-126 EVA 2,Heidemarie Stefanyshyn-Piper,Robert Kimbrough
 STS-126 EVA 1,Heidemarie Stefanyshyn-Piper,Stephen Bowen
-STS-123 EVA 1,Richard Linnehan,Michael Foreman
-STS-122 EVA 2,Rex Walheim,Stanley Love
+STS-126 EVA 2,Heidemarie Stefanyshyn-Piper,Robert Kimbrough
+STS-126 EVA 3,Heidemarie Stefanyshyn-Piper,Stephen Bowen
+STS-124 EVA 1,Mike Fossum,Ron Garan
+STS-124 EVA 2,Mike Fossum,Ron Garan
+STS-124 EVA 3,Mike Fossum,Ron Garan
+STS-123 EVA 4,Michael Foreman,Bob Behnken
+STS-123 EVA 5,Michael Foreman,Bob Behnken
+STS-123 EVA 3,Richard Linnehan,Bob Behnken
+STS-123 EVA 2,Richard Linnehan,Michael Foreman
+STS-123 EVA 1,Richard Linnehan,Garrett Reisman
 STS-122 EVA 1,Rex Walheim,Stanley Love
-STS-118 EVA 1,Richard Mastracchio,Clayton Anderson
+STS-122 EVA 3,Rex Walheim,Stanley Love
+Expedition 16 EVA 5,Peggy Whitson,Dan Tani
+Expedition 16 EVA 4,Peggy Whitson,Dan Tani
+Expedition 16 EVA 3,Peggy Whitson,Dan Tani
+Expedition 16 EVA 2,Peggy Whitson,Dan Tani
+STS-120 EVA 1,Scott Parazynski,Doug Wheelock
+STS-120 EVA 2,Scott Parazynski,Dan Tani
+STS-120 EVA 4,Scott Parazynski,Doug Wheelock
+STS-118 EVA 3,Richard Mastracchio,Clayton Anderson
+STS-117 EVA 2,Patrick Forrester,Steve Swanson
+STS-117 EVA 1,James Reilly,John Olivas
+STS-117 EVA 4,Patrick Forrester,Steve Swanson
+STS-117 EVA 3,James Reilly,John Olivas
+Expedition 14 EVA 4,Michael Lopez-Alegria,Sunita Williams
 Expedition 14 EVA 3,Michael Lopez-Alegria,Sunita Williams
 Expedition 14 EVA 2,Michael Lopez-Alegria,Sunita Williams
-Expedition 14 EVA 1,Michael Lopez-Alegria,Sunita Williams
-STS-113 EVA 3,Michael Lopez-Alegria,John Herrington
-STS-113 EVA 2,Michael Lopez-Alegria,John Herrington
+STS-116 EVA 3,Bob Curbeam,Sunita Williams
+STS-115 EVA 1,Joe Tanner,Heidemarie Stefanyshyn-Piper
+STS-115 EVA 3,Joe Tanner,Heidemarie Stefanyshyn-Piper
+STS-121 EVA 1,Piers Sellers,Mike Fossum
+STS-121 EVA 2,Piers Sellers,Mike Fossum
+STS-121 EVA 3,Piers Sellers,Mike Fossum
+Expedition 6 EVA 1,Ken Bowersox,Don Pettit
+Expedition 6 EVA 2,Ken Bowersox,Don Pettit
 STS-113 EVA 1,Michael Lopez-Alegria,John Herrington
-STS-112 EVA 3,David Wolf,Piers Sellers
-STS-112 EVA 2,David Wolf,Piers Sellers
+STS-113 EVA 2,Michael Lopez-Alegria,John Herrington
+STS-113 EVA 3,Michael Lopez-Alegria,John Herrington
 STS-112 EVA 1,David Wolf,Piers Sellers
-STS-110 EVA 4,Jerry Ross,Lee Morin
-STS-110 EVA 3,Steven Smith,Rex Walheim
+STS-112 EVA 2,David Wolf,Piers Sellers
+STS-112 EVA 3,David Wolf,Piers Sellers
 STS-110 EVA 2,Jerry Ross,Lee Morin
 STS-110 EVA 1,Steven Smith,Rex Walheim
-STS-105 EVA 2,Daniel Barry,Patrick Forrester
+STS-110 EVA 4,Jerry Ross,Lee Morin
+STS-110 EVA 3,Steven Smith,Rex Walheim
+Expedition 4 EVA 2,Carl Walz,Dan Bursch
+STS-108,Linda Godwin,Dan Tani
 STS-105 EVA 1,Daniel Barry,Patrick Forrester
+STS-105 EVA 2,Daniel Barry,Patrick Forrester
+STS-104 EVA 3,Michael Gernhardt,James Reilly
+STS-104 EVA 1,Michael Gernhardt,James Reilly
+STS-104 EVA 2,Michael Gernhardt,James Reilly
+STS-102 EVA 2,Andy Thomas,Paul Richards
 STS-102 EVA 1,James Voss,Susan Helms
-STS-97 EVA 3,Joseph Tanner,Carlos Noriega
-STS-97 EVA 2,Joseph Tanner,Carlos Noriega
-STS-97 EVA 1,Joseph Tanner,Carlos Noriega
+STS-98 EVA 1,Thomas Jones,Bob Curbeam
+STS-98 EVA 2,Thomas Jones,Bob Curbeam
+STS-98 EVA 3,Thomas Jones,Bob Curbeam
+STS-97 EVA 1,Joe Tanner,Carlos Noriega
+STS-97 EVA 2,Joe Tanner,Carlos Noriega
+STS-97 EVA 3,Joe Tanner,Carlos Noriega
+STS-92 EVA 2,Michael Lopez-Alegria,Peter Wisoff
+STS-92 EVA 1,Leroy Chiao,Bill McArthur
+STS-92 EVA 4,Michael Lopez-Alegria,Peter Wisoff
+STS-92 EVA 3,Leroy Chiao,Bill McArthur
+STS-101,James Voss,Jeff Williams
 STS-96,Tamara Jernigan,Daniel Barry
 STS-88 EVA 3,Jerry Ross,James Newman
 STS-88 EVA 2,Jerry Ross,James Newman
